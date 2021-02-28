@@ -139,7 +139,19 @@ git push
 
 <h2>Email received after successful execution of process</h2>
 
-![Email](https://cdn-images-1.medium.com/max/1000/1*4DQJeNoDK7eIC4iAIKPmcQ.png)<br><br>
+![Email](https://cdn-images-1.medium.com/max/1000/1*4DQJeNoDK7eIC4iAIKPmcQ.png)
+
+<br>
+<p align="center"><b>. . .</b></p><br>
+<h2>[Update]:</h2>
+<p>In GitHub, <b>master</b> branch has been renamed to <b>main</b> branch, therefore before pushing the code to the GitHub repository, branch could be switched from master to main using the command mentioned below:</p><br>
+
+```shell
+git branch -M main
+```
+
+<br>
+<p align="center"><b>. . .</b></p><br>
 
 <h2>Thank You :smiley:<h2>
 <h3>LinkedIn Profile</h3>
